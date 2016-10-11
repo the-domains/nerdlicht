@@ -1,0 +1,22 @@
+typography_spectrum: 0.6573036848567426
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.2519907858222723
+  lightness: 0.44591804943047464
+  saturation: 0.783228405052796
+  rhythmicContrast: 0.5501389799173921
+github: true
+layout_spectrum: 0.29621423315256834
+author:
+  name: Nerdlicht Gmbh
+  email: horizon@nerdlicht.io
+  url: nerdlicht.io
+name: nerdlicht
+navigation:
+  - name: Github
+    url: 'https://github.com/cassiopaia'
+    type: external
+title: Design Studio
+content: []
+description: ''
